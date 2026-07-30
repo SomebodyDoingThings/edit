@@ -6,7 +6,7 @@
 
 ## App / Site Mockups
 
-* [Mockoops](https://mockoops.mohitya.dev/) - Animated Mockups
+* [Mockoops](https://mockoops.mohitya.dev/) - Animated Mockups / [GitHub](https://github.com/Just-Moh-it/Mockoops)
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
 * [Screen from Traction](https://screen.traction.one/) - Create App Screenshots
 
@@ -19,9 +19,9 @@
 * 🌐 **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)** - CSS Frameworks Index
 * 🌐 **[Classless CSS](https://github.com/dbohdan/classless-css)** - Classless CSS Themes & Frameworks
 * 🌐 **[Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss)** - Tailwind CSS Resources
-* ⭐ **[Tailwind CSS](https://tailwindcss.com/)**, [⁠Panda CSS](https://panda-css.com/) / [GitHub](https://github.com/chakra-ui/panda), [Bulma](https://bulma.io/) or [UnoCSS](https://unocss.dev/) - CSS Frameworks
+* ⭐ **[Tailwind CSS](https://tailwindcss.com/)** / [GitHub](https://github.com/tailwindlabs/tailwindcss), [⁠Panda CSS](https://panda-css.com/) / [GitHub](https://github.com/chakra-ui/panda), [Bulma](https://bulma.io/) or [UnoCSS](https://unocss.dev/) - CSS Frameworks
 * [Tailwind Toolbox](https://tailwindtoolbox.com/) - Tailwind Starter Templates & Components
-* [daisyUI](https://daisyui.com/), [Float UI](https://floatui.com/) / [GitHub](https://github.com/MarsX-dev/floatui), [Aceternity UI](https://ui.aceternity.com/) or [Tailspark](https://tailspark.co/) - Tailwind CSS Components
+* [daisyUI](https://daisyui.com/) / [GitHub](https://github.com/saadeghi/daisyui), [Float UI](https://floatui.com/) / [GitHub](https://github.com/MarsX-dev/floatui), [Aceternity UI](https://ui.aceternity.com/) or [Tailspark](https://tailspark.co/) - Tailwind CSS Components
 * [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
 * [Terminal CSS](https://terminalcss.xyz/) - Terminal-style CSS Framework
 
@@ -31,7 +31,7 @@
 
 * ⭐ **[RAWGraphs](https://app.rawgraphs.io/)** / [GitHub](https://github.com/rawgraphs/rawgraphs-app)
 * ⭐ **[draw.io](https://www.drawio.com/)** / [GitHub](https://github.com/jgraph/drawio)
-* ⭐ **[Kroki](https://kroki.io/#try)** - Text to Diagrams / [CLI](https://github.com/yuzutech/kroki-cli)
+* ⭐ **[Kroki](https://kroki.io/#try)** - Text to Diagrams / [CLI](https://github.com/yuzutech/kroki-cli) / [GitHub](https://github.com/yuzutech/kroki)
 * ⭐ **[DataVizCatalogue](https://datavizcatalogue.com/)** - Data Visualization Wiki
 * [flowchart fun](https://flowchart.fun/) - Generate Flowchart from Text / [GitHub](https://github.com/tone-row/flowchart-fun)
 * [Pie Chart Maker](https://piechartmaker.co/), [2](https://www.piechartmaker.me/) - Create Pie Charts
